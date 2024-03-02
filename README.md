@@ -1,4 +1,4 @@
-Russian | [English]()
+Russian | [English](https://github.com/VioLATor01/DrawGD/blob/main/README_EN.md)
 
 # DrawGD
 Данная программа представляет инструмент для переноса растровых изображений в уровни Geometry Dash.
