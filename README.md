@@ -3,9 +3,7 @@ Russian | [English](https://github.com/VioLATor01/DrawGD/blob/main/README_EN.md)
 # DrawGD
 Данная программа представляет инструмент для переноса растровых изображений в уровни Geometry Dash.
 
-## Преимущества
-- Встроенный редактор картинок
-- Поддерживается экспорт в .GMD файл
+![image](https://github.com/user-attachments/assets/b01af431-abd9-429d-970c-5508d2caa6fe)
 
 ## Интерфейс программы
 - Языки: Английский
