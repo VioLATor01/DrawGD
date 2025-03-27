@@ -5,7 +5,7 @@ Russian | [English](https://github.com/VioLATor01/DrawGD/blob/main/README_EN.md)
 
 ![image](https://github.com/user-attachments/assets/b01af431-abd9-429d-970c-5508d2caa6fe)
 
-## Интерфейс программы
+## Интерфейс
 - Языки: Английский
 
 ## Горячие клавиши
