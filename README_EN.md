@@ -1,5 +1,3 @@
-[Russian](https://github.com/VioLATor01/DrawGD/blob/main/README.md) | English
-
 # DrawGD
 This program is a tool for transferring bitmap images to Geometry Dash levels.
 
